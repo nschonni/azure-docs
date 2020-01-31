@@ -12,7 +12,7 @@ ms.custom: seodec18
 
 # Use Key Vault references for App Service and Azure Functions
 
-This topic shows you how to work with secrets from Azure Key Vault in your App Service or Azure Functions application without requiring any code changes. [Azure Key Vault](../key-vault/key-vault-overview.md) is a service that provides centralized secrets management, with full control over access policies and audit history.
+This topic shows you how to work with secrets from Azure Key Vault in your App Service or Azure Functions application without requiring any code test changes. [Azure Key Vault](../key-vault/key-vault-overview.md) is a service that provides centralized secrets management, with full control over access policies and audit history.
 
 ## Granting your app access to Key Vault
 
